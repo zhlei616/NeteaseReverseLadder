@@ -3,4 +3,4 @@ Play your favorite songs in Netease Cloud Music that are banned outside Mainland
 
 Download latest stable binary here:
 在这里下载最新的打包好的程序：
-https://github.com/tiancaihb/NeteaseReverseLadder/releases/latest
+https://github.com/zhlei616/NeteaseReverseLadder/releases/latest
